@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+}
+.swipe {
+    width: 100%;
+    height: 500px;
+}
+.flex {
+    display: flex;
+    width: 100%
+}
+.sidebar-left {
+    width: 20%;
+    border-right: 1px solid #000;
+    height: stretch; 
+}
+.menu-left {
+    height: 60px;
+    background: pink
+}
+.content-right {
+    width: 80%;
+}
+.menu-right {
+    height: 60px;
+    background: purple;
+    text-align: center
+}
+.menu-1 {
+    height: 40px;
+    background: #fff;
+    border: 1px solid;
+}
